@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tensorflow Lite</string>
+    <string name="prediction">پیش بینی</string>
+    <string name="probability">احتمال</string>
+    <string name="timecost">زمان محاسبه</string>
+    <string name="timecost_value">%1$d ms</string>
+    <string name="empty">--</string>
+    <string name="detect">تشخیص</string>
+    <string name="clear">پاک کردن</string>
+    <string name="please_write_a_digit">لطفا یک عدد را در کادر بالا بنویسید.</string>
+    <string name="failed_to_create_classifier">ساخت Classifier با مشکل مواجه شد.</string>
+</resources>
